@@ -1,0 +1,1 @@
+module ptr_receiver
